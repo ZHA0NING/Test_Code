@@ -8,3 +8,5 @@ hello world
 test .gitignore
 
 hello idea
+
+goodbye .idea/
