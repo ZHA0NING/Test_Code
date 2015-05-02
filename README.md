@@ -10,3 +10,5 @@ test .gitignore
 hello idea
 
 goodbye .idea/
+
+test  no idea
