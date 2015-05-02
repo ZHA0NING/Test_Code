@@ -6,3 +6,5 @@ this is test config push.default matching ..
 what is wrong ????
 hello world
 test .gitignore
+
+hello idea
